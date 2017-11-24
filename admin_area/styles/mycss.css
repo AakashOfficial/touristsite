@@ -1,0 +1,12 @@
+body{
+	padding-top: 40px;
+	background-image: url(../images/img1.png);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#content{
+	color: white;
+}

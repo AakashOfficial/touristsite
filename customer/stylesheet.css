@@ -1,0 +1,52 @@
+#fullSearchButton{
+	float: right;
+}
+
+#searchTextBox{
+	height: 28px;
+}
+
+.main_wrapper{
+  margin-top: 50px;
+  background-color: black;
+}
+
+body {
+  height: 100%;
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('nepal1.jpg');
+
+    /* Full height */
+    height: 50%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax h1{
+	padding-top: 10%;
+	font-size: 400%;
+  color: cyan;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
+.base {
+	height: auto;
+	background-color:#EF4036;
+}
+.base h6 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	color:white;
+	font-family: 'PT Sans', sans-serif;
+}

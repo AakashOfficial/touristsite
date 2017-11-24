@@ -1,0 +1,21 @@
+body{
+	color: white;
+	background-image: url('../images/background1.jpg');
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+#adminPanel{
+	padding-top: 80px;
+}
+
+#welcomeSign{
+	color: black;
+	text-align: center;
+}
+
+#view1{
+	text-align: center;
+}

@@ -1,0 +1,18 @@
+#fullSearchButton{
+	float: right;
+}
+
+#searchTextBox{
+	height: 28px;
+}
+
+#accountMain{
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+#accountMain{
+	padding-top: 50px;
+	margin-top: 50px;
+}

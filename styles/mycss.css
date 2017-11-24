@@ -1,0 +1,164 @@
+#fullSearchButton{
+	float: right;
+}
+
+#searchTextBox{
+	height: 28px;
+}
+
+body {
+  padding-top: 30px;
+  height: 100%;   
+  background-color:#34515E;
+  background-image: url('img2.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#detailsImage{
+  width: 100%;
+  height: 100%;
+}
+
+#highlights{
+  padding-top: 30px;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url('img1.jpg');
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax h1{
+	padding-top: 25%;
+	font-size: 1200%;
+  color: cyan;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
+.base {
+	height: auto;
+	background-color:#EF4036;
+}
+
+.base h6 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	color:white;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#pointOfInterest{
+  background-image: url('img2.png');
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#results{
+  padding-top: 20px;
+  color: white;
+  background-image: url('img2.png');
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#poi{
+  color: white;
+}
+
+.categoryList{
+  font-size: 1.5em;
+  text-align: center;
+  color: white;
+}
+
+#favouritesPage{
+  padding-top: 20px;
+  color: white;
+}
+
+#favo{
+  background-image: url('img2.png');
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#deleteButton{
+  margin-left: 0px;
+}
+
+#registrationFrom{
+  background-image: url('img2.png');
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  
+}
+
+#deleteOption{
+  color: white;
+  font-size: 1.0em;
+}
+
+.esponsive{
+  width: 360px;
+  height: 230px;
+}
+
+.ted{
+  text-align: center;
+  margin-left: 30px;
+}
+
+#resultsMid{
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#resultsMid2{
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#favMid{
+  text-align: center;
+
+  color: white;
+}
+
+#favMidq{
+  text-align: center;
+  
+  color: white;
+}
+
+$favAllMid{
+  color: white;
+}
+
+#resultsDes{
+  font-size: 2.0em;
+}
+
+.poiTitles{
+  text-align: center;
+  color: white;
+  font-size: 1.5em;
+}

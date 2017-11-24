@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#fff;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  background-image: url('img2.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+    padding: 25px;
+    position: fixed;
+}
+
+.form-login {
+  font-family: 'Great Vibes', cursive;
+    background-color: #9999ff;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    
+}
+
+#userName{
+  font-size: 1.3em;
+}
+
+#userPassword{
+  font-size: 1.3em;
+}
+
+
+h1 { 
+ border:0 solid #fff; 
+ border-bottom-width:1px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#save{
+  margin-top: 200px;
+}
+
+
